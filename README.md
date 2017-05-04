@@ -1,4 +1,4 @@
-#MarkerSyntax
+# MarkerSyntax
 
 Simple plugin used to highlight markers with the desired background.
 
